@@ -1,2 +1,3 @@
-# Scripts.sh
-Scripts for BASH
+# SYNOLOGYScripts.sh
+Scripts for DSM in Synology
+Either one 
